@@ -89608,7 +89608,7 @@ $0(){var s=0,r=A.D(t.P),q=this,p
 var $async$$0=A.E(function(a,b){if(a===1)return A.A(b,r)
 while(true)switch(s){case 0:p=q.a.c
 p.toString
-A.b2(p,!1).mA("/DashboardDesign",t.X)
+A.b2(p,!1).mA("/LoginScreen",t.X)
 return A.B(null,r)}})
 return A.C($async$$0,r)},
 $S:39}
