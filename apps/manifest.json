@@ -1,6 +1,6 @@
 {
-    "name": "trackgenieweb",
-    "short_name": "trackgenieweb",
+    "name": "track_genie_admin_phase2",
+    "short_name": "track_genie_admin_phase2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
